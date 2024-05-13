@@ -1,0 +1,1 @@
+import{o as e,c as t}from"./index-c1a36bee.js";const a={class:"space-y-8"},_={__name:"stake_redirect",setup(c){return window.location="/stake_mainnet",(o,s)=>(e(),t("div",a))}};export{_ as default};

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html class="h-full" lang="en">
+  <head>
+    <script charset="UTF-8" async type="text/javascript" src="./1020a68db86c9a4.js"></script>
+    <meta charset="UTF-8">
+    <link rel="icon" href="/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meson Stake</title>
+    <script type="module" crossorigin src="/assets/index-c1a36bee.js"></script>
+    <link rel="stylesheet" href="/assets/index-743830c1.css">
+  </head>
+  <body class="font-inter antialiased bg-gray-900 text-gray-100 tracking-tight">
+    <div id="app" class="h-full"></div>
+    
+  </body>
+</html>
